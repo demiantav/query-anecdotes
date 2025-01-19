@@ -16,7 +16,7 @@ const createNewAnecdote = async (anecdote) => {
   } catch (error) {
     console.log(error);
 
-    return error;
+    throw error;
   }
 };
 

@@ -14,6 +14,9 @@ const AnecdoteForm = () => {
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['anecdotes'] });
     },
+    onError: () => {
+      dispatch({ type: 'error' });
+    },
   });
 
   const onCreate = (event) => {

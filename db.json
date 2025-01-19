@@ -47,18 +47,23 @@
     },
     {
       "content": "Hoy hace mucho calor",
-      "votes": 13,
+      "votes": 14,
       "id": "_jaRC-O"
     },
     {
       "content": "vamos que se puede",
-      "votes": 0,
+      "votes": 1,
       "id": "Si3Vit1"
     },
     {
       "content": "esto va a durar 5 segundos",
       "votes": 0,
       "id": "3go2HFR"
+    },
+    {
+      "content": "Hoy esta lindo",
+      "votes": 0,
+      "id": "-1O3by0"
     }
   ]
 }
